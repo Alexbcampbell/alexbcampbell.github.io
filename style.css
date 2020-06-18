@@ -10,3 +10,6 @@ p {
 .red{
   color: red;
 }
+.bold{
+  text-transform: bold;
+}
