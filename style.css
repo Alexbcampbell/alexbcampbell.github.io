@@ -25,11 +25,11 @@ h2{
 h3{
   font-size: 38px;
   margin-bottom: -10px;
+  border-bottom: 1px solid #999;
 }
 h4{
   font-size: 20px;
   margin-bottom: -10px;
-  border-bottom: 1px solid #999;
 }
 
 
