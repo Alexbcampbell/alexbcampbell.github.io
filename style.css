@@ -7,7 +7,13 @@ h1{
   background-image: url("https://s17736.pcdn.co/wp-content/uploads/2019/04/03-deep-blue-1024x576.jpg");
   background-size: cover;
 }
-
+.about{
+  color: white;
+  font-size: 25px;
+  border: 10px;
+  text-align: center;
+}
+  
 .center{
   text-align: center;
 }
