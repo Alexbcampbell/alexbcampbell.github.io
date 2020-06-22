@@ -2,6 +2,10 @@ h1{
   font-size: 35px;
   text-align: center;
 }
+.page-title{
+  background-image: url("https://s17736.pcdn.co/wp-content/uploads/2019/04/03-deep-blue-1024x576.jpg");
+  background-size: cover;
+}
 
 .center{
   text-align: center;
