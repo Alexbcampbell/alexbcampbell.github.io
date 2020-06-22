@@ -10,7 +10,13 @@ h1{
 .about{
   color: white;
   font-size: 25px;
-  border: 10px;
+  padding: 10px;
+  border: 20px;
+  text-align: center;
+}
+.description{
+  color: white;
+  font-size: 20px;
   text-align: center;
 }
   
