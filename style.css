@@ -28,7 +28,9 @@ h1{
   font-size: 20px;
 }
 p {
+  color: white;
   font-size: 25px;
+  text-align: center;
 }
 .red{
   color: white;
