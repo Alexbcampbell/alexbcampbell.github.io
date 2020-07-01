@@ -21,10 +21,6 @@ body{
   margin-bottom: 20px;
   border-bottom: 1px solid #000000;
 }
-.block-date{
-  font-weight: bold;
-  font-color: #464747;
-}
 h1{
   font-size: 64px;
   margin-bottom: -15px;
@@ -43,6 +39,8 @@ h3{
 h4{
   font-size: 20px;
   margin-bottom: -10px;
+  font-color: #464747;
+  font-weight: bold;
 }
 
 
