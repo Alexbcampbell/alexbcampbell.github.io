@@ -23,6 +23,7 @@ body{
 }
 .block-date{
   font-weight: bold;
+  font-color: #464747;
 }
 h1{
   font-size: 64px;
