@@ -14,8 +14,9 @@ body{
   text-align: left;
 }
 #content-professional{
-  font-size: 42px;
+  font-size: 40px;
   border-bottom: 1px solid #000000;
+  text-align: center;
 }
 #me{
   margin-bottom: 20px;
