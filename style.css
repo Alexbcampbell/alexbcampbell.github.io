@@ -21,6 +21,9 @@ body{
   margin-bottom: 20px;
   border-bottom: 1px solid #000000;
 }
+#about{
+  text-align: center;
+}
 h1{
   font-size: 64px;
   margin-bottom: -15px;
