@@ -23,6 +23,9 @@ body{
   border-bottom: 1px solid #000000;
   text-align: center;
 }
+#about{
+  font-size: 40;
+}
 h1{
   font-size: 64px;
   margin-bottom: -15px;
